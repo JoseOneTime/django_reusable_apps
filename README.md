@@ -1,4 +1,4 @@
-django_reusable_apps
-====================
+django_intro
+============
 
-https://docs.djangoproject.com/en/1.6/intro/reusable-apps/
+https://docs.djangoproject.com/en/1.6/intro/tutorial01/
